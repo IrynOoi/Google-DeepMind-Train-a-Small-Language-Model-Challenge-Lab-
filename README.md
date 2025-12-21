@@ -39,3 +39,20 @@ Exploring the use of character-based language models will involve the following 
 
 
 
+## OUTPUT FOR TESTING :
+
+PHOTO FOR TASK 1:
+<img width="803" height="377" alt="image" src="https://github.com/user-attachments/assets/eb1ea5c9-1533-4935-bb15-795e2509b939" />
+
+PHOTO FOR TASK 2:
+<img width="813" height="508" alt="image" src="https://github.com/user-attachments/assets/2290fd3a-2452-494c-a795-18dcfdd9aec3" />
+
+PHOTO FOR TASK 3:
+<img width="813" height="495" alt="image" src="https://github.com/user-attachments/assets/80b208b1-3392-4528-8f29-13d9a569f53a" />
+
+PHOTO FOR TASK 4:
+<img width="801" height="370" alt="image" src="https://github.com/user-attachments/assets/5ee18933-1bb1-4485-aa61-e6f4a933aeae" />
+
+
+
+
