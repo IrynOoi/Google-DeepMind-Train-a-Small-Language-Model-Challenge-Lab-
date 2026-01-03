@@ -1,4 +1,6 @@
 # Challenge Scenario
+<img width="1398" height="123" alt="image" src="https://github.com/user-attachments/assets/72deb457-f1e3-47c1-b773-3fd725ecf4bf" />
+
 
 ## Cymbal Chat: Developing a Chatbot for the Arabic-Speaking Market
 
