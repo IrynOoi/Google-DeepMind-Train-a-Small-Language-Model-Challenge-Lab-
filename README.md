@@ -1,7 +1,7 @@
-# Challenge Scenario
+## LAB COMPLETED
 <img width="1398" height="123" alt="image" src="https://github.com/user-attachments/assets/72deb457-f1e3-47c1-b773-3fd725ecf4bf" />
 
-
+# Challenge Scenario
 ## Cymbal Chat: Developing a Chatbot for the Arabic-Speaking Market
 
 Cymbal Chat is an AI language modeling small startup. They would like to expand the languages they cover to include **Arabic**. Arabic has a very different grammar than English and uses a different character set than what their AI researchers are used to.
